@@ -1,2 +1,3 @@
-# BaddieNFT
-Using Hardhat and JS to create my own NFT art. 
+# BeetNFT
+
+Using Hardhat and JS to create my own a BeetleJuice NFT. 
