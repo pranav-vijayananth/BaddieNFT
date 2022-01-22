@@ -2,7 +2,7 @@
 
 Using Hardhat and JS to create my own a BeetleJuice NFT. 
 
-Alchemy --> Coinbase Wallet --> OpenSea 
+Alchemy --> Coinbase Wallet + MetaMask (secondary wallet) --> OpenSea 
 
 Used the Ropsten ETH network for live testing before deployment
 
